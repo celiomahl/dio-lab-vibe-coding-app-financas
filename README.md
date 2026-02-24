@@ -101,5 +101,5 @@ Processo de interação e refinamento com o Copilot e a facilidade de manuseio c
 ### O que não funcionou como o esperado?
 Interação gratuita com o Lovable é bastante limitada.
 
-###O que aprendeu sobre conversar com IAs?
+### O que aprendeu sobre conversar com IAs?
 É uma ferramenta revolucionaria e disruptiva, que vai transformar as organizações.
