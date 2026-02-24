@@ -1,8 +1,10 @@
 # 💸 App de Finanças Pessoais de Celio Mahl com Vibe Coding
+Este projeto é um desafio de Vibe Coding da DIO com a CAIXA, utilizando o Copilot Web e o Lovable.
 
-PRD refinado  no Copliot Web:
 
-# PRD – Aplicativo de Organização de Finanças Pessoais
+# PRD refinado  no Copliot Web:
+
+## PRD – Aplicativo de Organização de Finanças Pessoais
 
 ## Contexto
 Criar um aplicativo de organização financeira pessoal que funcione por meio de conversas em linguagem natural.
